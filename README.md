@@ -16,7 +16,7 @@ To run the script you need to:
 - Configure the script by updating `.env.copy` file (remove the .copy from the file name when done).
   - Check [Configuration](#configuration) section bellow
 - Install dependencies by typing: `npm install`
-- Run the script by typing: `npm run start` in terminal
+- Run the script by typing: `npm run start` or run "Solana-Trading-Bot"
 
 You should see the following output:  
 ![output](readme/output.png)
